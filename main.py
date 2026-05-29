@@ -1,3 +1,4 @@
+##Script básico para a tratamento báisco de dados + importação de bibliotecas essenciais.
 from src.limpeza import carregar, resumo
 from src.analise import imprimir_resumo, gerar_todos
  
